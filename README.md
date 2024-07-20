@@ -3,9 +3,12 @@ Meta Glasses concept: determinable, customizable, hand-sign preference package m
 
 #### user stores
 i.e. (upload photo to instagram by holding heart sign in front of glasses)
-// timeout programmable but our example (oo by text or hold the heart then 1-2-3 fingers obv as representation for 1-2-3 seconds) 
+// timeout settings would be programmable by text or hand-sign as well i.e. 1-5 fingers held same place as original hand sign as representation for 1k-5kms
 countdown corresponds to command.
 
+so:
+heart ->
+3 fingers ->
 3-2-1 glasses take photo.
 Upload to your favorite platform. (i'm building one [which could fail] so hopefully permits integration) 
 
